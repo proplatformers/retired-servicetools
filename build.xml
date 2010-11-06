@@ -10,10 +10,10 @@
 
 
   <path id="csta.classpath">
-    <pathelement location="/Users/cm/lib/log4j-1.2.15.jar"/>
-    <pathelement location="/Users/cm/lib/asterisk-java.jar"/>
-    <pathelement location="/Users/cm/lib/javamail-141.jar"/>
-    <pathelement location="/Users/cm/lib/activation.jar"/>
+    <pathelement location="/Users/cm/opencstalibs/log4j-1.2.15.jar"/>
+    <pathelement location="/Users/cm/opencstalibs/asterisk-java.jar"/>
+    <pathelement location="/Users/cm/opencstalibs/mail.jar"/>
+    <pathelement location="/Users/cm/opencstalibs/activation.jar"/>
   </path>
 
   <target name="init">
