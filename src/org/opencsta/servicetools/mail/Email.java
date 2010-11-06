@@ -11,7 +11,7 @@ import java.util.*;
 import org.apache.log4j.Logger;
 /**
  *
- * @author cm
+ * @author chrismylonas
  */
 public class Email {
     private static Logger maillogger = Logger.getLogger(Email.class);
